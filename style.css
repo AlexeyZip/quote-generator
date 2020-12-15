@@ -36,14 +36,17 @@ body {
   align-items: center;
 }
 
-.telegram-btn i {
+.twitter-btn i {
   font-size: 28px;
   color: #075ea5 !important;
-  background-color: #ffffff;
   border-radius: 50%;
 }
 
-.new-quote-btn, .telegram-btn {
+.quote {
+  font-size: 30px;
+}
+
+.new-quote-btn, .twitter-btn {
   border: none;
   background-color: rgb(66, 66, 66);
   padding: 10px 20px;
